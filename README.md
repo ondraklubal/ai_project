@@ -1,7 +1,7 @@
 # Predicting Problem Gamblers in Online Casino Databases 🎲
 Building AI course project
 
-## 📝 Summary
+## Summary
 Gambling addiction is a growing concern worldwide, particularly with the rapid expansion of online casino platforms, which offer uninterrupted accessibility to games and betting. This project focuses on developing a predictive solution to identify gamblers at risk of addiction using artificial intelligence and real-world data from an unnamed online gambling company. By analyzing player behavior patterns, betting frequency, deposit habits, and other factors, the goal is to create a program capable of flagging high-risk players and providing actionable insights that gambling companies can use to mitigate harm.
 
 Unlike existing proprietary solutions that often lack transparency, this project aims to develop an open and understandable model that can be implemented by any gambling organization. Although initial development focuses on casino gambling, this approach has the potential to be scaled to other types of gambling platforms in the future. Predictive models derived from this project could also enable personalized messaging aimed at encouraging responsible gambling and minimizing addiction-related harm.
