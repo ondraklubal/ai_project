@@ -31,6 +31,10 @@ Future improvements could involve:
 - Developing **personalized messages** for at-risk players to encourage safer gambling behaviors.
 - Potentially reducing harm caused by excessive gambling through proactive interventions.
 
+Relevant research papers and resources:
+- [Predicting future problem gamblers using Machine Learning Algorithms](https://uu.diva-portal.org/smash/get/diva2:1646015/FULLTEXT01.pdf)
+
+
 
 ---
 Feel free to contribute to this project, share feedback, or suggest improvements!
